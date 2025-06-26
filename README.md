@@ -8,7 +8,7 @@
 
 -<h3>🏠 Home Page</h3>
 
-<img src="assets/images/home_page.jpg" alt="Home Page" width="400" height="550"/>
+<img src="assets/images/home_page.jpg" alt="Home Page" width="400" height="650"/>
 
 
 - Camera/image upload  
