@@ -9,7 +9,7 @@
 <h3>🔐 Authentication Page</h3>
 
 <p align="center">
-  <img src="assets/images/sig_in.jpg" alt="Authentication Page" width="400" />
+  <img src="assets/images/sig_in.jpg" alt="Authentication Page" width="400" style="margin-right: 20px;" />
   <img src="assets/images/sign_in_page.jpg" alt="Authentication Page" width="400"/>
 </p>
 
@@ -26,7 +26,7 @@
 
 <h3>Disease info and treatment</h3>
 <p align="center">
-  <img src="assets/images/plant_disease.jpg" width="400" height="650"/>
+  <img src="assets/images/plant_disease.jpg" width="400" style="margin-right: 20px;"/>
   <img src="assets/images/pesticides_recomondation.jpg" width="400" />
 </p>
 <h3>Dashboard</h3>  
