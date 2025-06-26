@@ -6,7 +6,8 @@
 
 ## 📸 App Screenshots
 
-- Welcome screen  
+- Welcome screen
+- [Prediction Page](assets/images/home_page.jpg) 
 - Camera/image upload  
 - Prediction output with confidence  
 - Disease info and treatment  
