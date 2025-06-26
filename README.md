@@ -8,7 +8,7 @@
 
 -<h3>🏠 Home Page</h3>
 
-<img src="assets/images/homepage.jpg" alt="Home Page" width="300"/>
+<img src="assets/images/home_page.jpg" alt="Home Page" width="300"/>
 
 - Camera/image upload  
 - Prediction output with confidence  
