@@ -6,8 +6,10 @@
 
 ## 📸 App Screenshots
 
-- Welcome screen
-- ![HOME PAGE](assets/images/home_page.jpg) 
+-<h3>🏠 Home Page</h3>
+
+<img src="assets/images/homepage.jpg" alt="Home Page" width="400"/>
+
 - Camera/image upload  
 - Prediction output with confidence  
 - Disease info and treatment  
